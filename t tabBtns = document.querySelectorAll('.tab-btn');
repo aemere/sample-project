@@ -1,0 +1,11 @@
+[33mcommit 8dae7c4c67ae289697201bde52aae9c136ee630c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aemere <aemro2000@gmail.com>
+Date:   Sun Nov 15 23:21:52 2026 -0800
+
+    Add initial README for Arc of Life project
+
+[33mcommit b56843b492ffe56fc5eeb1f62e2d2026a0af6be9[m
+Author: Aemere <aemro2000@gmail.com>
+Date:   Sun Nov 15 23:21:16 2026 -0800
+
+    Add initial index.html with basic structure
